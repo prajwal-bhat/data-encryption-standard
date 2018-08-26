@@ -1,6 +1,6 @@
-//This implementation of DES takes random number as input for plaintext and for keys also and then decrypts the same.
+//This implementation of DES takes random number as input for plaintext and also keys and then decrypts the same.
 //All the input and out are in binary system
-//Use cc file.c -lm to compile correctly for some of the function 
+//Use <<cc file.c -lm>> to compile pow function of the math.h correctly
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
